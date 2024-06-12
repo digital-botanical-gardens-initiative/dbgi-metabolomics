@@ -1,0 +1,20 @@
+_commit: 0.0.72
+_src_path: gh:mapp-metabolomics-unit/mapp-repo-copier-template
+author: DBGI
+email: pierre-marie.allard@unifr.ch
+github_username: digital-botanical-gardens-initiative
+gnps_job_id: ''
+mapp_batch: dbgi_batch_00001
+mapp_batch_description: Untargeted metabolomics of UniFr botanical samples
+mapp_project: dbgi_project_00001
+repository_name: dbgi-metabolomics
+target_variable: source_taxon
+recorded_setup: true
+recorded_repository_name: "dbgi-metabolomics"
+recorded_author: "DBGI"
+recorder_email: "pierre-marie.allard@unifr.ch"
+recorded_github_username: "digital-botanical-gardens-initiative"
+recorded_mapp_project: "dbgi_project_00001"
+recorded_mapp_batch: "dbgi_batch_00001"
+
+
