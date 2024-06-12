@@ -14,4 +14,4 @@ Repository initiated with [mapp-metabolomics-unit/mapp-repo-copier-template](htt
 
 This project was created by DBGI.
 
-Contact: pierre-marie.allard@unifr.ch
+Contact: edouard.bruelhart@unifr.ch
