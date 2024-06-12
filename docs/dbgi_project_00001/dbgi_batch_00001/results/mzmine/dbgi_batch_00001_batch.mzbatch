@@ -823,7 +823,8 @@
             <parameter name="Denormalize fragment scans (traps)">true</parameter>
         </parameter>
         <parameter name="Metadata file" selected="true">
-            <current_file>/home/allardpm/git_repos/DBGI/dbgi-metabolomics/docs/dbgi_project_00001/dbgi_batch_00001/metadata/treated/dbgi_batch_00001_metadata_fully_resolved.csv</current_file>
+            <current_file>/home/allardpm/git_repos/DBGI/dbgi-metabolomics/docs/dbgi_project_00001/dbgi_batch_00001/metadata/treated/dbgi_batch_00001_metadata.tsv</current_file>
+            <last_file>/home/allardpm/git_repos/DBGI/dbgi-metabolomics/docs/dbgi_project_00001/dbgi_batch_00001/metadata/treated/dbgi_batch_00001_metadata.tsv</last_file>
             <last_file>/home/allardpm/git_repos/DBGI/dbgi-metabolomics/docs/dbgi_project_00001/dbgi_batch_00001/metadata/treated/dbgi_batch_00001_metadata_fully_resolved.csv</last_file>
             <last_file>/home/allardpm/git_repos/mapp-metabolomics-unit/adria-leboeuf-group/docs/mapp_project_00014/mapp_batch_00074/metadata/treated/mapp_batch_00074_metadata.tsv</last_file>
         </parameter>
