@@ -341,7 +341,7 @@ Run the following command to get the taxonomy for the results:
 1. resolve
 
 ```bash
-taxonomical-utils resolve --input-file docs/fibl-pilot/pos/metadata/original/fibl_pilot_pos_metadata.tsv --output-file docs/fibl-pilot/pos/metadata/original/fibl_pilot_pos_metadata_resolved.csv --org-column-header source_taxon
+taxonomical-utils resolve --input-file docs/dbgi_project_00001/dbgi_batch_00001/metadata/original/metadata_2024061110.tsv --output-file docs/dbgi_project_00001/dbgi_batch_00001/metadata/treated/metadata_2024061110_resolved_qf.tsv --org-column-header qf_sample_name
 ```
 
 2. retrieve upper taxa lineage
