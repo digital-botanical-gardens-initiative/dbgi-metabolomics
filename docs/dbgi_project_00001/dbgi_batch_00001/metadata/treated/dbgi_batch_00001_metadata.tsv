@@ -1,4 +1,4 @@
-sample_filename	sample_id	sample_type
+filename	sample_id	sample_type
 20240307_EB_dbgi_001195_01_01.mzML	dbgi_001195_01_01	sample
 20240307_EB_dbgi_001199_01_01.mzML	dbgi_001199_01_01	sample
 20240307_EB_dbgi_001213_01_01.mzML	dbgi_001213_01_01	sample
