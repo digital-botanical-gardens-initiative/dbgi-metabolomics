@@ -381,9 +381,9 @@ taxonomical-utils merge --input-file docs/dbgi_project_00001/dbgi_batch_00001/me
 As a pipeline
 
 ```bash
-taxonomical-utils resolve --input-file docs/dbgi_project_00001/dbgi_batch_00001/metadata/treated/dbgi_batch_00001_metadata.tsv --output-file docs/dbgi_project_00001/dbgi_batch_00001/metadata/treated/dbgi_batch_00001_metadata_resolved.tsv --org-column-header source_taxon && \
-taxonomical-utils append-taxonomy --input-file docs/dbgi_project_00001/dbgi_batch_00001/metadata/treated/dbgi_batch_00001_metadata_resolved.tsv --output-file docs/dbgi_project_00001/dbgi_batch_00001/metadata/treated/dbgi_batch_00001_metadata_upper_taxa_lineage.csv && \
-taxonomical-utils merge --input-file docs/dbgi_project_00001/dbgi_batch_00001/metadata/treated/dbgi_batch_00001_metadata.tsv --resolved-taxa-file docs/dbgi_project_00001/dbgi_batch_00001/metadata/treated/dbgi_batch_00001_metadata_resolved.tsv --upper-taxa-lineage-file docs/dbgi_project_00001/dbgi_batch_00001/metadata/treated/dbgi_batch_00001_metadata_upper_taxa_lineage.csv --output-file docs/dbgi_project_00001/dbgi_batch_00001/metadata/treated/dbgi_batch_00001_metadata_fully_resolved.csv --org-column-header source_taxon --delimiter '\t'
+taxonomical-utils resolve --input-file docs/dbgi_project_00001/dbgi_batch_00002/metadata/treated/dbgi_batch_00002_metadata_input.tsv --output-file docs/dbgi_project_00001/dbgi_batch_00002/metadata/treated/dbgi_batch_00002_metadata_resolved.tsv --org-column-header source_taxon && \
+taxonomical-utils append-taxonomy --input-file docs/dbgi_project_00001/dbgi_batch_00002/metadata/treated/dbgi_batch_00002_metadata_resolved.tsv --output-file docs/dbgi_project_00001/dbgi_batch_00002/metadata/treated/dbgi_batch_00002_metadata_upper_taxa_lineage.csv && \
+taxonomical-utils merge --input-file docs/dbgi_project_00001/dbgi_batch_00002/metadata/treated/dbgi_batch_00002_metadata_input.tsv --resolved-taxa-file docs/dbgi_project_00001/dbgi_batch_00002/metadata/treated/dbgi_batch_00002_metadata_resolved.tsv --upper-taxa-lineage-file docs/dbgi_project_00001/dbgi_batch_00002/metadata/treated/dbgi_batch_00002_metadata_upper_taxa_lineage.csv --output-file docs/dbgi_project_00001/dbgi_batch_00002/metadata/treated/dbgi_batch_00002_metadata_fully_resolved.csv --org-column-header source_taxon --delimiter '\t'
 
 ### Met-annot-unifer
 

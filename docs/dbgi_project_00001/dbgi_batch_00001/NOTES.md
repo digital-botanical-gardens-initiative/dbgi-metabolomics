@@ -6,7 +6,7 @@
 ```bash
 ssh commons-server
 tmux a -t sirius
-cd ~/git_repos/mapp-metabolomics-unit/dbgi-metabolomics/docs/dbgi_project_00001/dbgi_batch_00001/results
+cd ~/git_repos/DBGI/dbgi-metabolomics/docs/dbgi_project_00001/dbgi_batch_00001/results
 ```
 
 ### Login
