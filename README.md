@@ -12,6 +12,6 @@ Have a look at the [docs folder](https://github.com/digital-botanical-gardens-in
 ---
 Repository initiated with [mapp-metabolomics-unit/mapp-repo-copier-template](https://github.com/mapp-metabolomics-unit/mapp-repo-copier-template).
 
-This project was created by DBGI.
+This project was created by MAPP Metabolomics Unit.
 
-Contact: edouard.bruelhart@unifr.ch
+Contact: pierre-marie.allard@unifr.ch

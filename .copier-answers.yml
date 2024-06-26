@@ -1,20 +1,20 @@
 _commit: 0.0.72
 _src_path: gh:mapp-metabolomics-unit/mapp-repo-copier-template
-email: edouard.bruelhart@unifr.ch
+email: pierre-marie.allard@unifr.ch
 github_username: digital-botanical-gardens-initiative
 gnps_job_id: ''
-mapp_batch: dbgi_batch_00002
-mapp_batch_description: Untargeted metabolomics of UniFr botanical samples - negative
-    mode
-mapp_project: dbgi_project_00001
+mapp_batch: cuso_batch_00001
+mapp_batch_description: Untargeted metabolomics of UniFr botanical samples CUSO -
+    positive mode
+mapp_project: dbgi_project_00002
 repository_name: dbgi-metabolomics
 target_variable: source_taxon
 recorded_setup: true
 recorded_repository_name: "dbgi-metabolomics"
-recorded_author: "DBGI"
-recorder_email: "edouard.bruelhart@unifr.ch"
+recorded_author: "MAPP Metabolomics Unit"
+recorder_email: "pierre-marie.allard@unifr.ch"
 recorded_github_username: "digital-botanical-gardens-initiative"
-recorded_mapp_project: "dbgi_project_00001"
-recorded_mapp_batch: "dbgi_batch_00002"
+recorded_mapp_project: "dbgi_project_00002"
+recorded_mapp_batch: "cuso_batch_00001"
 
 

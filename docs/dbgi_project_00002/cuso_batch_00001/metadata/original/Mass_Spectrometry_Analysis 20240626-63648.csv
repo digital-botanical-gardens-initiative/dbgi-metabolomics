@@ -1,0 +1,15 @@
+UUID_mass_spec,aliquot_id,mass_spec_id,status,field_sample_id_fk,field_sample_id_pk,field_sample_name,collector_fullname
+af17a64c-c8cc-4f33-bb57-dd8a29f66777,dbgi_003101_01_01,202406251749_PMA_dbgi_003101_01_01,OK,dbgi_003101,dbgi_003101,Stephanandra incisa (Thunb.) Zabel 'Crispa',Emmanuel Defossez
+f711b238-b494-4da3-97ca-fe8f15596fde,dbgi_003140_01_01,202406251749_PMA_dbgi_003140_01_01,OK,dbgi_003140,dbgi_003140,Papaver somniferum L.,Pierre-Marie Allard
+38d0687c-b92b-4677-be4f-b291079eb300,dbgi_003151_01_01,202406251749_PMA_dbgi_003151_01_01,OK,dbgi_003151,dbgi_003151,Lycopersicon esculentum Mill.,Pierre-Marie Allard
+c770c9d2-6246-4532-83b7-1ffe53901550,dbgi_003154_01_01,202406251749_PMA_dbgi_003154_01_01,OK,dbgi_003154,dbgi_003154,Datura stramonium L. var. stramonium,Pierre-Marie Allard
+93e7cd56-6e4f-41cd-b3aa-55b0e628f658,dbgi_003155_01_01,202406251749_PMA_dbgi_003155_01_01,OK,dbgi_003155,dbgi_003155,Rubus idaeus L. 'Autumn Bliss',Emmanuel Defossez
+16982165-224f-4e1f-ae93-2d3b6adce6a5,dbgi_003164_01_01,202406251749_PMA_dbgi_003164_01_01,OK,dbgi_003164,dbgi_003164,Glaucium flavum Crantz,Pierre-Marie Allard
+48ec2881-a143-4298-b040-e30945cea040,dbgi_003179_01_01,202406251749_PMA_dbgi_003179_01_01,OK,dbgi_003179,dbgi_003179,Lamprocapnos spectabilis (L.) Fukuhara,Pierre-Marie Allard
+11f62bda-69de-4e6a-98b3-34a70504de33,dbgi_003180_01_01,202406251749_PMA_dbgi_003180_01_01,OK,dbgi_003180,dbgi_003180,Petunia integrifolia (Hook.) Schinz et Thell.,Emmanuel Defossez
+a73ab817-0d28-4cc1-9527-b761e78e689c,dbgi_003185_01_01,202406251749_PMA_dbgi_003185_01_01,OK,dbgi_003185,dbgi_003185,Agrimonia eupatoria L.,Emmanuel Defossez
+5baa03c9-5cf1-4386-b1ae-996774206807,dbgi_003187_01_01,202406251749_PMA_dbgi_003187_01_01,OK,dbgi_003187,dbgi_003187,Glaucium flavum Crantz,Pierre-Marie Allard
+d8faa652-40cb-444e-8f4b-0245472c748c,dbgi_003196_01_01,202406251749_PMA_dbgi_003196_01_01,OK,dbgi_003196,dbgi_003196,Waldsteinia fragarioides Tratt.,Emmanuel Defossez
+55e57059-738e-4a4f-bc6b-65f0bf62ae2b,dbgi_003198_01_01,202406251749_PMA_dbgi_003198_01_01,OK,dbgi_003198,dbgi_003198,Corydalis flexuosa Franch.,Pierre-Marie Allard
+807654ec-c372-4264-acdc-d241c9f3e804,dbgi_003214_01_01,202406251749_PMA_dbgi_003214_01_01,OK,dbgi_003214,dbgi_003214,Hyoscyamus niger L.,Emmanuel Defossez
+d11db983-d25b-4bc2-a9fc-0b5dce5e3fd0,dbgi_003223_01_01,202406251749_PMA_dbgi_003223_01_01,OK,dbgi_003223,dbgi_003223,Rosa glauca Pourr.,Emmanuel Defossez
