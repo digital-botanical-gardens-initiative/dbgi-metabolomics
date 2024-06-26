@@ -1,0 +1,1052 @@
+N E X T F L O W  ~  version 21.10.0
+Launching `/app/workflows_user/feature_based_molecular_networking_workflow/nf_workflow.nf` [curious_meucci] - revision: 7e0a32c1a8
+[-        ] process > filesummary                    -
+[-        ] process > quantification_table_reform... -
+[-        ] process > filter_spectra                 -
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+
+[-        ] process > filesummary                    -
+[-        ] process > quantification_table_reform... -
+[-        ] process > filter_spectra                 -
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[-        ] process > summaryLibrary                 -
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[-        ] process > createMetadataFile             -
+[-        ] process > calculateGroupings             -
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (10)
+[05/b61961] process > filesummary (1)                [  0%] 0 of 1
+[96/3b03a0] process > quantification_table_reform... [  0%] 0 of 1
+[-        ] process > filter_spectra                 -
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[36/92069f] process > summaryLibrary (19)            [  0%] 0 of 53
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[-        ] process > createMetadataFile             [  0%] 0 of 1
+[-        ] process > calculateGroupings             -
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (30)
+[05/b61961] process > filesummary (1)                [  0%] 0 of 1
+[96/3b03a0] process > quantification_table_reform... [  0%] 0 of 1
+[-        ] process > filter_spectra                 -
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[ab/75fac1] process > summaryLibrary (16)            [  0%] 0 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[-        ] process > createMetadataFile             [  0%] 0 of 1
+[-        ] process > calculateGroupings             -
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (53)
+[05/b61961] process > filesummary (1)                [  0%] 0 of 1
+[96/3b03a0] process > quantification_table_reform... [  0%] 0 of 1
+[-        ] process > filter_spectra                 -
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[4a/b81cc3] process > summaryLibrary (60)            [  0%] 0 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [  0%] 0 of 1
+[-        ] process > calculateGroupings             -
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (65)
+[05/b61961] process > filesummary (1)                [  0%] 0 of 1
+[96/3b03a0] process > quantification_table_reform... [  0%] 0 of 1
+[-        ] process > filter_spectra                 -
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[30/3a64a6] process > summaryLibrary (35)            [  0%] 0 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [  0%] 0 of 1
+[-        ] process > calculateGroupings             -
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (65)
+[05/b61961] process > filesummary (1)                [  0%] 0 of 1
+[96/3b03a0] process > quantification_table_reform... [  0%] 0 of 1
+[-        ] process > filter_spectra                 -
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[30/3a64a6] process > summaryLibrary (35)            [  0%] 0 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [  0%] 0 of 1
+[-        ] process > calculateGroupings             -
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (65)
+[05/b61961] process > filesummary (1)                [  0%] 0 of 1
+[96/3b03a0] process > quantification_table_reform... [  0%] 0 of 1
+[-        ] process > filter_spectra                 -
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[2d/b396f7] process > summaryLibrary (28)            [  6%] 4 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [  0%] 0 of 1
+[-        ] process > calculateGroupings             -
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (65)
+[05/b61961] process > filesummary (1)                [  0%] 0 of 1
+[96/3b03a0] process > quantification_table_reform... [  0%] 0 of 1
+[-        ] process > filter_spectra                 -
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[52/f9ba7d] process > summaryLibrary (25)            [ 22%] 14 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [  0%] 0 of 1
+[-        ] process > calculateGroupings             -
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (67)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [  0%] 0 of 1
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[74/d8bc57] process > summaryLibrary (40)            [ 41%] 26 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (67)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [  0%] 0 of 1
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[c0/82f689] process > summaryLibrary (14)            [ 72%] 45 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (67)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [  0%] 0 of 1
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[43/373e36] process > summaryLibrary (24)            [ 79%] 49 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (67)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [  0%] 0 of 1
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[02/9ac9de] process > summaryLibrary (58)            [ 87%] 54 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (67)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [  0%] 0 of 1
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[c1/bf1ff4] process > summaryLibrary (36)            [ 90%] 56 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (67)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [  0%] 0 of 1
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[82/0d6b0b] process > summaryLibrary (43)            [ 93%] 58 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (67)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [  0%] 0 of 1
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[ae/31102b] process > summaryLibrary (56)            [ 95%] 59 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (67)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[-        ] process > librarySearchData              -
+[-        ] process > librarymergeResults            -
+[fa/957b2a] process > summaryLibrary (32)            [ 96%] 60 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[-        ] process > networkingGNPSPrepParams       -
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (90)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[5c/830c12] process > librarySearchData (58)         [  0%] 0 of 62
+[-        ] process > librarymergeResults            -
+[fa/957b2a] process > summaryLibrary (32)            [ 96%] 60 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [  0%] 0 of 1
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (119)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[7b/725e7f] process > librarySearchData (15)         [  0%] 0 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [  0%] 0 of 1
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (130)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[68/c7e720] process > librarySearchData (39)         [  0%] 0 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [  0%] 0 of 1
+[-        ] process > calculatePairs                 -
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (131)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[68/c7e720] process > librarySearchData (39)         [  0%] 0 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [  0%] 0 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[68/c7e720] process > librarySearchData (39)         [  0%] 0 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [  0%] 0 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[68/c7e720] process > librarySearchData (39)         [  0%] 0 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [  0%] 0 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [  0%] 0 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[68/c7e720] process > librarySearchData (39)         [  0%] 0 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [  0%] 0 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[b0/5b78fc] process > librarySearchData (11)         [  1%] 1 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [  0%] 0 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[b9/826512] process > librarySearchData (37)         [ 16%] 10 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [  0%] 0 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[22/7a94af] process > librarySearchData (56)         [ 24%] 15 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [  0%] 0 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[7d/242480] process > librarySearchData (50)         [ 35%] 22 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [  0%] 0 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[3e/26318b] process > librarySearchData (40)         [ 46%] 29 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [  0%] 0 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[7d/1f41cd] process > librarySearchData (19)         [ 51%] 32 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [  0%] 0 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[19/8e2f86] process > librarySearchData (53)         [ 56%] 35 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [  0%] 0 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[19/8e2f86] process > librarySearchData (53)         [ 56%] 35 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[ff/d975e6] process > calculatePairs (2)             [ 33%] 1 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[75/4d7d4e] process > librarySearchData (29)         [ 59%] 37 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[ff/d975e6] process > calculatePairs (2)             [ 33%] 1 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[5b/f8c14e] process > librarySearchData (7)          [ 62%] 39 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[ff/d975e6] process > calculatePairs (2)             [ 33%] 1 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[79/0dbb07] process > librarySearchData (27)         [ 64%] 40 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[ff/d975e6] process > calculatePairs (2)             [ 33%] 1 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[d0/3bee33] process > librarySearchData (24)         [ 66%] 41 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[ff/d975e6] process > calculatePairs (2)             [ 33%] 1 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[ad/f2c815] process > librarySearchData (31)         [ 67%] 42 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[ff/d975e6] process > calculatePairs (2)             [ 33%] 1 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[ae/b73c12] process > librarySearchData (9)          [ 69%] 43 of 62
+[-        ] process > librarymergeResults            -
+[ce/15ba59] process > summaryLibrary (30)            [ 98%] 61 of 62
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[ff/d975e6] process > calculatePairs (2)             [ 33%] 1 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[2a/d763ba] process > librarySearchData (54)         [ 70%] 44 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[ff/d975e6] process > calculatePairs (2)             [ 33%] 1 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[7f/6c242c] process > librarySearchData (52)         [ 72%] 45 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[ff/d975e6] process > calculatePairs (2)             [ 33%] 1 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[5c/830c12] process > librarySearchData (58)         [ 74%] 46 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[ff/d975e6] process > calculatePairs (2)             [ 33%] 1 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[5c/830c12] process > librarySearchData (58)         [ 74%] 46 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [ 66%] 2 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[8a/82374b] process > librarySearchData (41)         [ 75%] 47 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [ 66%] 2 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[38/6b4b53] process > librarySearchData (49)         [ 77%] 48 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [ 66%] 2 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (133)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[3b/b629df] process > librarySearchData (43)         [ 80%] 50 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[c7/a2506b] process > calculatePairs (1)             [ 66%] 2 of 3
+[-        ] process > filterNetwork                  -
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[3b/b629df] process > librarySearchData (43)         [ 80%] 50 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [  0%] 0 of 1
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[2f/b27f79] process > librarySearchData (17)         [ 82%] 51 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [  0%] 0 of 1
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[2f/b27f79] process > librarySearchData (17)         [ 82%] 51 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[0f/7ca080] process > librarySearchData (10)         [ 83%] 52 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[f7/6c991b] process > librarySearchData (46)         [ 85%] 53 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[3e/0fc0b0] process > librarySearchData (62)         [ 87%] 54 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[8e/c14af6] process > librarySearchData (30)         [ 88%] 55 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[d7/f1858a] process > librarySearchData (55)         [ 90%] 56 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[6e/52cc77] process > librarySearchData (22)         [ 91%] 57 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[e1/51e2db] process > librarySearchData (57)         [ 93%] 58 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[4c/d0bb03] process > librarySearchData (51)         [ 95%] 59 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[63/c09271] process > librarySearchData (36)         [ 96%] 60 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[64/68aa7d] process > librarySearchData (32)         [ 98%] 61 of 62
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (134)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[ea/378559] process > librarySearchData (8)          [100%] 62 of 62 ✔
+[-        ] process > librarymergeResults            -
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (135)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[ea/378559] process > librarySearchData (8)          [100%] 62 of 62 ✔
+[2d/e25410] process > librarymergeResults            [  0%] 0 of 1
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[-        ] process > librarygetGNPSAnnotations      -
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (136)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[ea/378559] process > librarySearchData (8)          [100%] 62 of 62 ✔
+[2d/e25410] process > librarymergeResults            [100%] 1 of 1 ✔
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[0f/e94d56] process > librarygetGNPSAnnotations (1)  [  0%] 0 of 1
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[-        ] process > enrichClusterSummary           -
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (137)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[ea/378559] process > librarySearchData (8)          [100%] 62 of 62 ✔
+[2d/e25410] process > librarymergeResults            [100%] 1 of 1 ✔
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[0f/e94d56] process > librarygetGNPSAnnotations (1)  [100%] 1 of 1 ✔
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[38/517b1a] process > enrichClusterSummary (1)       [  0%] 0 of 1
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (137)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[ea/378559] process > librarySearchData (8)          [100%] 62 of 62 ✔
+[2d/e25410] process > librarymergeResults            [100%] 1 of 1 ✔
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[0f/e94d56] process > librarygetGNPSAnnotations (1)  [100%] 1 of 1 ✔
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[38/517b1a] process > enrichClusterSummary (1)       [  0%] 0 of 1
+[-        ] process > createNetworkGraphML           -
+
+executor >  local (138)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[ea/378559] process > librarySearchData (8)          [100%] 62 of 62 ✔
+[2d/e25410] process > librarymergeResults            [100%] 1 of 1 ✔
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[0f/e94d56] process > librarygetGNPSAnnotations (1)  [100%] 1 of 1 ✔
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[38/517b1a] process > enrichClusterSummary (1)       [100%] 1 of 1 ✔
+[34/9c6b00] process > createNetworkGraphML (1)       [  0%] 0 of 1
+
+executor >  local (138)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[ea/378559] process > librarySearchData (8)          [100%] 62 of 62 ✔
+[2d/e25410] process > librarymergeResults            [100%] 1 of 1 ✔
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[0f/e94d56] process > librarygetGNPSAnnotations (1)  [100%] 1 of 1 ✔
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[38/517b1a] process > enrichClusterSummary (1)       [100%] 1 of 1 ✔
+[34/9c6b00] process > createNetworkGraphML (1)       [100%] 1 of 1 ✔
+
+executor >  local (138)
+[05/b61961] process > filesummary (1)                [100%] 1 of 1 ✔
+[96/3b03a0] process > quantification_table_reform... [100%] 1 of 1 ✔
+[71/e6ead4] process > filter_spectra (1)             [100%] 1 of 1 ✔
+[ea/378559] process > librarySearchData (8)          [100%] 62 of 62 ✔
+[2d/e25410] process > librarymergeResults            [100%] 1 of 1 ✔
+[75/db634c] process > summaryLibrary (8)             [100%] 62 of 62 ✔
+[0f/e94d56] process > librarygetGNPSAnnotations (1)  [100%] 1 of 1 ✔
+[d7/f12686] process > networkingGNPSPrepParams (1)   [100%] 1 of 1 ✔
+[09/1b004b] process > calculatePairs (3)             [100%] 3 of 3 ✔
+[d2/b87a62] process > filterNetwork (1)              [100%] 1 of 1 ✔
+[9b/5ff3a8] process > createMetadataFile             [100%] 1 of 1 ✔
+[d7/d6e94f] process > calculateGroupings (1)         [100%] 1 of 1 ✔
+[38/517b1a] process > enrichClusterSummary (1)       [100%] 1 of 1 ✔
+[34/9c6b00] process > createNetworkGraphML (1)       [100%] 1 of 1 ✔
+Completed at: 26-Jun-2024 12:30:04
+Duration    : 5m 7s
+CPU hours   : 0.4
+Succeeded   : 138
+
+
